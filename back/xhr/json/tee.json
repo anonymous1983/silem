@@ -1,0 +1,347 @@
+[
+  {
+    "parent": true,
+    "title": "Dashboard",
+    "icone": "fa fa-home",
+    "context": true,
+    "context_target": "#context-menu",
+    "addClass": "home",
+    "key": "home",
+    "hideOption": true
+  },
+  {
+    "parent": true,
+    "title": "Site Nav",
+    "icone": "fa fa-reorder",
+    "context": true,
+    "context_target": "#context-menu",
+    "expand": true,
+    "children": [
+      {
+        "title": "Sub-item 2.1",
+        "status": "st_inpublish",
+        "context": true,
+        "context_target": "#context-menu",
+        "expand": true,
+        "children": [
+          {
+            "title": "Sub-item 2.1.1",
+            "context": true,
+            "context_target": "#context-menu",
+            "expand": true,
+            "children": [
+              {
+                "title": "Melise Technologie",
+                "melisdata": {
+                  "melis_id": "55da1e00be9b7215f5ab3b25",
+                  "melis_param_index": 0,
+                  "melis_param_guid": "24e53e1b-97ad-49c8-9b7d-b19192a2f29b"
+                },
+                "context": true,
+                "context_target": "#context-menu",
+                "iconeTab": "file",
+                "tab": "cdss",
+                "options": [
+                  "edit",
+                  "properties",
+                  "versionning"
+                ],
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/",
+                "optionsVal": {
+                  "edit": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "properties": {
+                    "typeload": "xhr",
+                    "src": "pages/test.html"
+                  },
+                  "meta": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "versionning": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  }
+                }
+              },
+              {
+                "title": "Features",
+                "melisdata": {
+                  "melis_id": "55da1e0089fb51b12d4931e1",
+                  "melis_param_index": 1,
+                  "melis_param_guid": "7de814c5-d2c7-4a56-8fea-0e222f42dbc3"
+                },
+                "context": true,
+                "context_target": "#context-menu",
+                "iconeTab": "file",
+                "options": [
+                  "edit",
+                  "meta",
+                  "versionning"
+                ],
+                "typeload": "iframe",
+                "src": "http://www.melistechnology.com/features/id/7",
+                "optionsVal": {
+                  "edit": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "properties": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "meta": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "versionning": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  }
+                }
+              },
+              {
+                "title": "Strategic Partner",
+                "melisdata": {
+                  "melis_id": "55da1e00f09bd7d9f48143ca",
+                  "melis_param_index": 2,
+                  "melis_param_guid": "2efc9126-4bd5-41e5-8770-eb4edad786ee"
+                },
+                "context": true,
+                "context_target": "#context-menu",
+                "iconeTab": "file",
+                "options": [
+                  "edit",
+                  "properties",
+                  "meta",
+                  "versionning"
+                ],
+                "typeload": "iframe",
+                "src": "http://www.melistechnology.com/partners/strategic-partner/id/31",
+                "optionsVal": {
+                  "edit": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "properties": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "meta": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "versionning": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  }
+                }
+              },
+              {
+                "title": "Support",
+                "melisdata": {
+                  "melis_id": "55da1e00613cc85643f6ec8e",
+                  "melis_param_index": 3,
+                  "melis_param_guid": "21cde4af-6ff1-4992-93bd-777e12608e60"
+                },
+                "context": true,
+                "context_target": "#context-menu",
+                "iconeTab": "file",
+                "options": [
+                  "edit",
+                  "properties",
+                  "meta",
+                  "versionning"
+                ],
+                "typeload": "iframe",
+                "src": "http://www.melistechnology.com/support/editions-overview/id/38#professional",
+                "optionsVal": {
+                  "edit": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "properties": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "meta": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  },
+                  "versionning": {
+                    "typeload": "iframe",
+                    "src": "http://www.melisagency.fr/"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sub-item 2.1.2",
+            "melisdata": {
+              "melis_id": "55da1e0097beb86570e37a30",
+              "melis_param_index": 4,
+              "melis_param_guid": "3deae463-b25c-45e4-9965-bbf191f1434c"
+            },
+            "context": true,
+            "context_target": "#context-menu",
+            "iconeTab": "user",
+            "tab": "cdss",
+            "options": [
+              "edit",
+              "properties",
+              "versionning"
+            ],
+            "optionsVal": {
+              "edit": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "properties": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "meta": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "versionning": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              }
+            }
+          },
+          {
+            "title": "Sub-item 2.1.3",
+            "melisdata": {
+              "melis_id": "55da1e0018ca905cc46c1532",
+              "melis_param_index": 5,
+              "melis_param_guid": "71dd6c42-3e8a-473f-9da7-7c0a35dee9f1"
+            },
+            "context": true,
+            "context_target": "#context-menu",
+            "iconeTab": "rss-square",
+            "tab": "cdss",
+            "options": [
+              "edit",
+              "properties",
+              "meta",
+              "versionning"
+            ],
+            "optionsVal": {
+              "edit": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "properties": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "meta": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "versionning": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              }
+            }
+          },
+          {
+            "title": "Sub-item 2.1.4",
+            "melisdata": {
+              "melis_id": "55da1e00d6bff49278e65922",
+              "melis_param_index": 6,
+              "melis_param_guid": "e4fb82fb-2d25-4ef9-b056-1b6838ee1a7f"
+            },
+            "context": true,
+            "context_target": "#context-menu",
+            "iconeTab": "pie-chart",
+            "tab": "cdss",
+            "options": [
+              "edit",
+              "properties",
+              "versionning"
+            ],
+            "optionsVal": {
+              "edit": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "properties": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "meta": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              },
+              "versionning": {
+                "typeload": "iframe",
+                "src": "http://www.melisagency.fr/"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "parent": true,
+    "title": "Settings",
+    "icone": "fa fa-cog",
+    "context": true,
+    "context_target": "#context-menu",
+    "children": [
+      {
+        "title": "Sub-item 2.1",
+        "status": "st_inpublish",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.1",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.1.1",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.2.2",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.1.3",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.2.4",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.2",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.3",
+        "context": true,
+        "context_target": "#context-menu"
+      },
+      {
+        "title": "Sub-item 2.1.4",
+        "context": true,
+        "context_target": "#context-menu"
+      }
+    ]
+  }
+]
